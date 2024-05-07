@@ -24,4 +24,4 @@ jobs:
           cd build
           ./test_app --enable-gcov
           cd ..
-          coveralls --root . -E ".*gtest.*" -E ".*CMakeFiles.*"
+          coveralls --root . -E ".*gtest.*" -E ".*CMakeFiles.*" -E ".*third-party.*"
