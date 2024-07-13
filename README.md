@@ -147,7 +147,8 @@ $ gist REPORT.md
     * Используйте mock-объекты.
     * Покрытие кода должно составлять 100%.
 3. Настройте сборочную процедуру на **TravisCI**.
-4. Настройте [Coveralls.io](https://coveralls.io/).
+4. Настройте [Coveralls.io](https://coveralls.io/) Вот результат покртытия кода: 
+[![Coverage Status](https://coveralls.io/repos/github/amandreev17/lab05/badge.svg)](https://coveralls.io/github/amandreev17/lab05)
 
 ## Links
 
